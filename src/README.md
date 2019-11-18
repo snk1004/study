@@ -13,7 +13,7 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
 </div>
 
 <div class="features">
-  <!-- <div class="feature">
+  <div class="feature">
     <h2>勤于总结</h2>
     <p>不断总结过去的知识点。</p>
   </div>
@@ -23,22 +23,8 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
   </div>
   <div class="feature">
     <h2>终于实践</h2>
-    <p>不断在项目中锤炼知识点。</p> -->
-    <div class="feature">
-      <h2>为什么要叫酱油胡</h2>
-      <p>h：今天我们办运动会</p>
-      <p>q: 哦，那你是八百米，还是接力赛还是跳远？</p>
-      <p>h: 都不是,我就是打个酱油的</p>
-      <p>q: 真棒</p>
-    </div>
-    <div class="feature">
-      <h2>乐于学习</h2>
-      <p>不断接触学习新的知识点。</p>
-    </div>
-    <div class="feature">
-      <h2>终于实践</h2>
-      <p>不断在项目中锤炼知识点。</p>
-    </div>
+    <p>不断在项目中锤炼知识点。</p>
+  </div>
 </div>
 
 ### 起步就像数 1, 2, 3 一样容易
