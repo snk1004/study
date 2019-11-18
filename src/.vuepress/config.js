@@ -7,8 +7,9 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '前端知识点总结',
-      description: '孤独是一个人的狂欢'
+      title: '醬油胡',
+      // description: '孤独是一个人的狂欢'
+      description: '晒着太阳吃甘蔗'
     }
   },
   head: [
@@ -72,6 +73,7 @@ module.exports = {
             text: '知识点笔记',
             items: [
               { text: '在线思维导图', link: '/zh/interface/Mind.md'},
+              { text: '框架挖析' , link: '/zh/frame/analyze.md'},
               { text: 'Vue', link: '/zh/vue/' },
               { text: 'React', link: '/zh/react/'},
               { text: '小程序', link: '/zh/miniapp/' },
@@ -107,7 +109,10 @@ module.exports = {
           ]}],
           '/zh/miniapp/': [{title: '小程序知识点', children: [
             '', 'WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
-          ]}]
+          ]}]/* ,
+          '/zh/frame/': [{title: '框架挖析', children: [
+            '','analyze'
+          ]}] */
         }
       }
     },

@@ -1,8 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
   <img width="280" src="https://snk1004.github.io/study/avatar.png" alt="logo">
-=======
->>>>>>> 65a8dff2b9422acf094eaff888d0fd27d8666c13
 </p>
 
 ## Target
